@@ -69,7 +69,7 @@ parsedToken, err := AccessTokenParse(tokenString, hmacKey)
 Get go-token-generation package
 
 ```bash
-go mod get github.com/smiilliin/go-token-generation
+go get github.com/smiilliin/go-token-generation
 ```
 
 ## Test
